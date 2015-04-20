@@ -1,0 +1,38 @@
+.wrapper{width: 612px;
+	height: 792px;
+display: inline;
+margin-left: 100px;
+margin-right: 100px;
+padding-left: 40px;
+}
+.title{font-size: 36pt; 
+	font-family: Helvetica;
+	padding-left: 40px;
+
+}
+.subtitle{font-size: 14pt;
+	font-family: Helvetica;
+	padding-left: 40px;
+}
+
+.autor {font-family: Helvetica;
+	font-size:12pt;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.column1{ width:280px;
+	display: block;
+	text-align: left;
+	float: left;
+	font-family: Helvetica;
+	font-size:12pt;
+	padding-left: 40px;
+}
+.column2{ width:280px;
+	display: block;
+	text-align: left;
+	float: left;
+	font-family: Helvetica;
+	font-size:12pt;
+	padding-left: 40px;
+}
